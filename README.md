@@ -109,7 +109,8 @@
     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/gyuha/jjal-api)  
     
 * [Jjal API (Frontend)](https://github.com/gyuha/jjal)  
-    
+  - This is a web page that makes it easy for users to try out the above Jjal API. 
+  
     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/gyuha/jjal)  
 
 * [Speak like Zhang](https://github.com/seongahjo/speak_like_zhang)  
@@ -118,7 +119,7 @@
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](http://34.69.120.34)  
 
 * [Multiplayer-mario](https://github.com/koldbreww/multiplayer-mario)  
-  - An incomplete recreation of Nintendo's Super Mario Bros.This game is built with Phaser and uses Peer.js + WebRTC for peer to peer communications.  
+  - An incomplete recreation of Nintendo's Super Mario Bros. This game is built with Phaser and uses Peer.js + WebRTC for peer to peer communications.  
     
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/koldbreww/multiplayer-mario)  
 
