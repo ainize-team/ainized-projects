@@ -79,7 +79,7 @@
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.ai/deployment/moonchanyong/ffmpeg-js)  
 
 * [Onechain](https://github.com/lukepark327/onechain)  
-  - A onechain explorer is the front-end used to visualize the state of the blockchain. This blockchain explorer allows users to see the latest blocks and details about a particular block.  
+  - Onechain explorer is the front-end used to visualize the state of the blockchain. This blockchain explorer allows users to see the latest blocks and details about a particular block.  
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/lukepark327/onechain)  
 
