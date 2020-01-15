@@ -132,8 +132,3 @@
   - A website by Hugo. Currently under construction!  
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](http://34.84.67.31:80)  
-
-* [Quantum](https://github.com/Lisayg/Quantum)  
-  - These samples demonstrate the use of the Quantum Development Kit for a variety of different quantum computing tasks. Each sample is self-contained in a folder, and demonstrates how to use Q# to develop quantum applications.  
-  
-    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/Lisayg/Quantum)  
