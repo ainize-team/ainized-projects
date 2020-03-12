@@ -3,6 +3,7 @@
 - [Featured](#Featured)
 - [Tutorial](#Tutorial)
 - [Projects @ OpenResource Hackathon, Seoul, 2019](./2019OpenResourceHackathon.md)
+- [Projects @ OpenResource Experience, SF, 2020](#OpenResource-Experience-SF-2020)
 - [Weekly Ainize](#Weekly-Ainize)
 
 ## Featured
@@ -30,6 +31,11 @@
   - Korean Natural Language Process API which redesigned KoNLPy (Wrapper) to enhance usability and portability with gRPC.
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/minhoryang/KoNLPy-gRPC)
+
+* **[Blurhash API](https://github.com/b3ting/blurhash-python)**
+  - `BlurHash` API generates a **compact representation of a placeholder** for an image.
+    
+    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/b3ting/blurhash-python)
 
 
 ## Tutorial
@@ -62,6 +68,14 @@
 
 ## OpenResource Hackathon, Seoul, 2019
 - [Submitted Projects](./2019OpenResourceHackathon.md)
+
+
+## OpenResource Experience, SF, 2020
+
+* **[Blurhash API](https://github.com/b3ting/blurhash-python)**
+  - `BlurHash` API generates a **compact representation of a placeholder** for an image.
+    
+    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/b3ting/blurhash-python)
 
 
 ## Weekly Ainize
