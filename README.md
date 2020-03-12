@@ -32,6 +32,13 @@
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/minhoryang/KoNLPy-gRPC)
 
+* **[U-GAT-IT](https://github.com/kmswlee/UGATIT)**
+  - Official Tensorflow implementation of **U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation** (ICLR 2020).
+  - Pretrained `Selfie2Anime` and `Anime2Selfie` model included.
+  - GPU / CPU Version Available!
+
+    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/kmswlee/UGATIT)
+
 * **[Blurhash API](https://github.com/b3ting/blurhash-python)**
   - `BlurHash` API generates a **compact representation of a placeholder** for an image.
     
@@ -128,3 +135,10 @@
   - Sentence Transformers find similar sentences in .txt file show you sentences that have top 5 probability.
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize-dev.web.app/redirect?git_repo=github.com/kmkwon94/ainized-sentence-transformers)
+
+* **[UGATIT](https://github.com/kmswlee/UGATIT)**
+  - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020).
+  - Pretrained `Selfie2Anime` and `Anime2Selfie` model included.
+  - GPU / CPU Version Available!
+
+    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/kmswlee/UGATIT)
