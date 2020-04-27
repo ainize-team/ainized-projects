@@ -67,11 +67,6 @@
     
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/ainize-team/ainize-run-style-transfer)
 
-* **[Tensorflow-serving](https://github.com/ainize-team/ainize-run-tensorflow-example)**
-  - This repository provides "Resnet model" TensorFlow serving application.
-    
-    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/ainize-team/ainize-run-tensorflow-example)
-
 
 ## OpenResource Hackathon, Seoul, 2019
 - [Submitted Projects](./2019OpenResourceHackathon.md)
