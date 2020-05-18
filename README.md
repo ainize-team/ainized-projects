@@ -111,11 +111,12 @@
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/parkhojun/ChatLearner.git)
 
-* **[QnABot](https://github.com/gkswjdzz/qnabot)**
+<!--* **[QnABot](https://github.com/gkswjdzz/qnabot)**
   - A chatbot trained with specific topics in PyTorch.
   - Topics: Parasite(Bong Joon Ho), AI Network.
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize-dev.herokuapp.com/deployments/github.com/gkswjdzz/qnabot)
+-->
 
 * **[LASER](https://github.com/kmkwon94/ainized-laser)**
   - LASER(`Language-Agnostic SEntence Representations`) is a library to calculate and use multilingual sentence embeddings.
@@ -127,10 +128,11 @@
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/kmkwon94/ainized-peframe)
 
-* **[Sentence Transformers](https://github.com/kmkwon94/ainized-sentence-transformers)**
+<!--* **[Sentence Transformers](https://github.com/kmkwon94/ainized-sentence-transformers)**
   - Sentence Transformers find similar sentences in .txt file show you sentences that have top 5 probability.
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize-dev.web.app/redirect?git_repo=github.com/kmkwon94/ainized-sentence-transformers)
+-->
 
 * **[UGATIT](https://github.com/kmswlee/UGATIT)**
   - Official Tensorflow implementation of U-GAT-IT: Unsupervised Generative Attentional Networks with Adaptive Layer-Instance Normalization for Image-to-Image Translation (ICLR 2020).
