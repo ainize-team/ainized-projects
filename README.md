@@ -46,6 +46,12 @@
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/b3ting/blurhash-python)
 -->
 
+* **[Crowdy](https://github.com/ainize-team2/crowdy)**
+  - Crowdy is a web app that displays nearby supermarkets based on your current location, with the crowdedness levels at different times of the day.
+  - Originally developed by @andrewlimcj and submitted to CGH 1.0 (COVID-19 Global Hackathon 1.0).
+
+    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/ainize-team2/crowdy)
+
 ## Tutorial
 
 * **[Hello world](https://github.com/ainize-team/ainize-run-helloworld-example)**
