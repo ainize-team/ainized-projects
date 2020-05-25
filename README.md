@@ -146,8 +146,6 @@
   - GPU / CPU Version Available!
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/kmswlee/UGATIT)
-    
-    
 
 
 * **[MaskDetection](https://github.com/vyvydkf628/MaskDetection)**
@@ -158,3 +156,8 @@
   - Webcam Version
 
      [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://landing.vyvydkf628.endpoint.ainize.ai/maskdetection)
+
+* **[ShadeSketch](https://github.com/vyvydkf628/ShadeSketch)**
+  - Generate detailed and accurate artistic shadows from pairs of line drawing sketches and lighting directions.
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/vyvydkf628/ShadeSketch)
