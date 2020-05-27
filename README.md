@@ -51,6 +51,11 @@
   - Originally developed by @andrewlimcj and submitted to CGH 1.0 (COVID-19 Global Hackathon 1.0).
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/ainize-team2/crowdy)
+    
+* **[Python Level Challenge](https://github.com/ainize-team1/python-level-challenge)**
+  - A simple online python quiz.
+
+    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/ainize-team1/python-level-challenge)
 
 ## Tutorial
 
