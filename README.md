@@ -53,7 +53,8 @@
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/ainize-team2/crowdy)
     
 * **[Python Level Challenge](https://github.com/ainize-team1/python-level-challenge)**
-  - A simple online python quiz.
+  - A simple online quiz platform for python programming language.
+  - Solve quiz and check your level!
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/ainize-team1/python-level-challenge)
 
