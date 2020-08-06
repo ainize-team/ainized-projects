@@ -167,3 +167,8 @@
   - Generate detailed and accurate artistic shadows from pairs of line drawing sketches and lighting directions.
 
      [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/vyvydkf628/ShadeSketch)
+
+* **[Unsup3d](https://github.com/thetkim9/unsup3d)**
+  - Render 3D .gif file from a 2D image file using unsupervised learning.
+
+     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/thetkim9/unsup3d)
