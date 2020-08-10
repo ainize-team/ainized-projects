@@ -224,3 +224,8 @@
   - Learning Convolution Neural Networks with Interactive visualization.
 
      [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://cnn-explainer-wook-2.endpoint.ainize.ai/)
+
+* **[Council-GAN](https://github.com/kmkwon94/Council-GAN)**
+  - In this project, you can try three different kinds of models person2anime, male2female, and no-glasses
+
+    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://councilgan-kmkwon94.endpoint.ainize.ai/)
