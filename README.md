@@ -168,6 +168,18 @@
 
      [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/vyvydkf628/ShadeSketch)
 
+* **[StarGAN v2](https://github.com/psi1104/stargan-v2)**
+  - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
+  - Changes the face of a person or animal into various facial styles.
+
+    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/psi1104/stargan-v2)
+
+* **[PIFuHD](https://github.com/psi1104/pifuhd)**
+  - PIFuHD: Multi-Level Pixel-Aligned Implicit Function for High-Resolution 3D Human Digitization (CVPR 2020)
+  - Creates 3D objects for picture of the human body.
+  
+    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/psi1104/pifuhd)
+
 * **[Color-Transfer](https://github.com/woomurf/ainize-color-transfer)**
   - Color_Transfer package transfer color from source image to target image super fast.
 
