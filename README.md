@@ -179,3 +179,43 @@
   - Creates 3D objects for picture of the human body.
   
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/psi1104/pifuhd)
+
+* **[Color-Transfer](https://github.com/woomurf/ainize-color-transfer)**
+  - Color_Transfer package transfer color from source image to target image super fast.
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.ai/woomurf/ainize-color-transfer)
+
+* **[WaveRNN](https://github.com/woomurf/WaveRNN)**
+  - Pytorch implementation of Deepmind's WaveRNN model from Efficient Neural Audio Synthesis.
+  - Convert text to speech. ( audio file )
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://wavernn-woomurf.endpoint.ainize.ai/)
+
+* **[DeepFace](https://github.com/woomurf/deepface)**
+  - deepface is a lightweight face recognition and facial attribute analysis (age, gender, emotion and race) framework for python.
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://deepface-woomurf.endpoint.ainize.ai/)
+
+* **[MyQR](https://github.com/woomurf/qrcode)**
+  - MyQR generates common qr-code, artistic qr-code (black & white or colorized), animated qr-code (black & white or colorized).
+
+  - Swagger version 
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.ai/woomurf/myqr)
+  
+  - WebServer
+      [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://myqr-woomurf.endpoint.ainize.ai/)
+
+* **[EasyOCR](https://github.com/Wook-2/EasyOCR)**
+  - Extracts text from the image. it supports 40+ languages, including Chinese, Japanese, Korean and Thai.
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://easyocrgpu-wook-2.endpoint.ainize.ai/)
+
+* **[Asciify](https://github.com/Wook-2/asciify)**
+  - Converts images into ascii art with the power of python.
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://asciify-wook-2.endpoint.ainize.ai/)
+
+* **[Cnn-Explainer](https://github.com/Wook-2/cnn-explainer)**
+  - Learning Convolution Neural Networks with Interactive visualization.
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://cnn-explainer-wook-2.endpoint.ainize.ai/)
