@@ -192,3 +192,18 @@
   
   - WebServer
       [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://myqr-woomurf.endpoint.ainize.ai/)
+
+* **[EasyOCR](https://github.com/Wook-2/EasyOCR)**
+  - Extracts text from the image. it supports 40+ languages, including Chinese, Japanese, Korean and Thai.
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://easyocrgpu-wook-2.endpoint.ainize.ai/)
+
+* **[Asciify](https://github.com/Wook-2/asciify)**
+  - Converts images into ascii art with the power of python.
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://asciify-wook-2.endpoint.ainize.ai/)
+
+* **[Cnn-Explainer](https://github.com/Wook-2/cnn-explainer)**
+  - Learning Convolution Neural Networks with Interactive visualization.
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://cnn-explainer-wook-2.endpoint.ainize.ai/)
