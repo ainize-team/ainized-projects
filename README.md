@@ -167,3 +167,8 @@
   - Generate detailed and accurate artistic shadows from pairs of line drawing sketches and lighting directions.
 
      [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/vyvydkf628/ShadeSketch)
+
+* **[Council-GAN](https://github.com/kmkwon94/Council-GAN)**
+  - In this project, you can try three different kinds of models person2anime, male2female, and no-glasses
+
+    [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://councilgan-kmkwon94.endpoint.ainize.ai/)
