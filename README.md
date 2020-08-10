@@ -168,6 +168,11 @@
 
      [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/vyvydkf628/ShadeSketch)
 
+* **[Unsup3d](https://github.com/thetkim9/unsup3d)**
+  - Render 3D .gif file from a 2D image file using unsupervised learning.
+
+     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=github.com/thetkim9/unsup3d)
+
 * **[StarGAN v2](https://github.com/psi1104/stargan-v2)**
   - StarGAN v2 - Official PyTorch Implementation (CVPR 2020)
   - Changes the face of a person or animal into various facial styles.
