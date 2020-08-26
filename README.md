@@ -214,12 +214,12 @@
   - Extracts text from the image. 
   - it supports 40+ languages, including Chinese, Japanese, Korean and Thai.
 
-     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/wook-2/EasyOCR)
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/Wook-2/EasyOCR)
 
 * **[Asciify](https://github.com/Wook-2/asciify)**
   - Converts images into ascii art with the power of python.
 
-     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/wook-2/asciify)
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/Wook-2/asciify)
 
 * **[Cnn-Explainer](https://github.com/Wook-2/cnn-explainer)**
   - Learning Convolution Neural Networks with Interactive visualization.
@@ -229,13 +229,13 @@
 * **[Question Generator](https://github.com/Wook-2/question_generation)**
   - Generates Answer/Question from your text.
 
-     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/wook-2/question_generation)
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/Wook-2/question_generation)
      
 * **[Image Reader](https://github.com/Wook-2/ImageReader)**
   - Extracts voice file from images. 
   - It uses EasyOCR & WaveRNN.
 
-     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/wook-2/ImageReader)
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/Wook-2/callapi)
 
 * **[Council-GAN](https://github.com/kmkwon94/Council-GAN)**
   - In this project, you can try three different kinds of models person2anime, male2female, and no-glasses
