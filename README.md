@@ -211,19 +211,31 @@
       [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://myqr-woomurf.endpoint.ainize.ai/)
 
 * **[EasyOCR](https://github.com/Wook-2/EasyOCR)**
-  - Extracts text from the image. it supports 40+ languages, including Chinese, Japanese, Korean and Thai.
+  - Extracts text from the image. 
+  - it supports 40+ languages, including Chinese, Japanese, Korean and Thai.
 
-     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://easyocrgpu-wook-2.endpoint.ainize.ai/)
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/Wook-2/EasyOCR)
 
 * **[Asciify](https://github.com/Wook-2/asciify)**
   - Converts images into ascii art with the power of python.
 
-     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://asciify-wook-2.endpoint.ainize.ai/)
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/Wook-2/asciify)
 
 * **[Cnn-Explainer](https://github.com/Wook-2/cnn-explainer)**
   - Learning Convolution Neural Networks with Interactive visualization.
 
-     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://cnn-explainer-wook-2.endpoint.ainize.ai/)
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/wook-2/cnn-explainer)
+
+* **[Question Generator](https://github.com/Wook-2/question_generation)**
+  - Generates Answer/Question from your text.
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/Wook-2/question_generation)
+     
+* **[Image Reader](https://github.com/Wook-2/ImageReader)**
+  - Extracts voice file from images. 
+  - It uses EasyOCR & WaveRNN.
+
+     [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/Wook-2/callapi)
 
 * **[Council-GAN](https://github.com/kmkwon94/Council-GAN)**
   - In this project, you can try three different kinds of models person2anime, male2female, and no-glasses
