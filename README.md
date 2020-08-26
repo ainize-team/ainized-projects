@@ -211,7 +211,8 @@
       [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://myqr-woomurf.endpoint.ainize.ai/)
 
 * **[EasyOCR](https://github.com/Wook-2/EasyOCR)**
-  - Extracts text from the image. it supports 40+ languages, including Chinese, Japanese, Korean and Thai.
+  - Extracts text from the image. 
+  - it supports 40+ languages, including Chinese, Japanese, Korean and Thai.
 
      [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.ai/Wook-2/EasyOCR?branch=master)
 
@@ -231,7 +232,8 @@
      [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.ai/Wook-2/question_generation?branch=master)
      
 * **[Image Reader](https://github.com/Wook-2/question_generation)**
-  - Extracts voice file from images. It uses EasyOCR & WaveRNN
+  - Extracts voice file from images. 
+  - It uses EasyOCR & WaveRNN.
 
      [![Run on Ainize](https://www.ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.ai/Wook-2/callapi?branch=master)
 
