@@ -5,6 +5,7 @@
 - [Projects @ OpenResource Hackathon, Seoul, 2019](./2019OpenResourceHackathon.md)
 - [Projects @ OpenResource Experience, SF, 2020](#OpenResource-Experience-SF-2020)
 - [Weekly Ainize](#Weekly-Ainize)
+- [Projects by Users](#Projects-by-Users)
 
 ## Featured
 
@@ -233,3 +234,8 @@
   - In this project, you can try three different kinds of models person2anime, male2female, and no-glasses
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/kmkwon94/Council-GAN)
+
+
+
+## Projects by Users
+
