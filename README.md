@@ -5,6 +5,7 @@
 - [Projects @ OpenResource Hackathon, Seoul, 2019](./2019OpenResourceHackathon.md)
 - [Projects @ OpenResource Experience, SF, 2020](#OpenResource-Experience-SF-2020)
 - [Weekly Ainize](#Weekly-Ainize)
+- [Projects by Users](#Projects-by-Users)
 
 ## Featured
 
@@ -233,8 +234,10 @@
   - In this project, you can try three different kinds of models person2anime, male2female, and no-glasses
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/kmkwon94/Council-GAN)
-    
- * **[OmicSelector](https://github.com/kstawiski/OmicSelector)**
-    - Biomarker signiture selection (feature selection) & automatic deep-learning-based diagnostic model development from high-throughput high-throughput omics experiments and other multidimensional datasets. Initially developed for miRNA-seq, RNA-seq and qPCR data.
+
+## Projects by Users
+
+* **[OmicSelector](https://github.com/kstawiski/OmicSelector)**
+  - Biomarker signiture selection (feature selection) & automatic deep-learning-based diagnostic model development from high-throughput high-throughput omics experiments and other multidimensional datasets. Initially developed for miRNA-seq, RNA-seq and qPCR data.
 
     [![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/kstawiski/OmicSelector)
